@@ -1,6 +1,6 @@
 /**
  *
- * @author nasibrus
+ * @author Ruslan Nasibov (@nasibrus)
  */
 public class Main {
 
